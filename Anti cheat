@@ -40,7 +40,7 @@ public OnFilterScriptInit()
 {
 	SendRconCommand("reloadbans");
 	print("------------------------------------------------------");
-	print("-------------Anti Bot Attack By Ryder Now Loaded------");
+	print("-------------Anti Bot Attack By Deemas Now Loaded------");
 	print("------------------------------------------------------");
 	return 1;
 }
